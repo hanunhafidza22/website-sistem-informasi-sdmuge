@@ -1,0 +1,100 @@
+[
+  {
+    "id": "18592f20-ca26-4e23-bcc8-bedad2e560b7",
+    "data": [
+      {
+        "text": "fasilitas SD Muhammadiyah Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "397546e9-f09f-4864-834f-6a876c10d05c",
+    "data": [
+      {
+        "text": "fasilitas SD Muhammadiyah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0ee5d928-1467-4dee-ac41-d4e61f589adc",
+    "data": [
+      {
+        "text": "fasilitas ",
+        "userDefined": false
+      },
+      {
+        "text": "di SD Muhammadiyah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b58e0f4d-fd85-4b71-b3dd-8d0e7f139d73",
+    "data": [
+      {
+        "text": "fasilitas SD Muhammadiyah",
+        "userDefined": false
+      },
+      {
+        "text": " apa saja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "78e5141c-469f-4b39-9980-66ee00babfba",
+    "data": [
+      {
+        "text": "apa saja ",
+        "userDefined": false
+      },
+      {
+        "text": "fasilitas SD Muhammadiyah Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "29d1b1ae-52d6-489e-a0db-98d50681e836",
+    "data": [
+      {
+        "text": "Apa ",
+        "userDefined": false
+      },
+      {
+        "text": "fasilitas SD Muhammadiyah",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

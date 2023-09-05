@@ -1,0 +1,97 @@
+{
+  "id": "32c0cb02-ba59-4fff-9ec2-01888f2f134a",
+  "name": "infoPPDB",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "ppdb",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "13c75068-f03c-4442-8225-6ec5c7f73fb0",
+          "name": "pembayaran",
+          "required": false,
+          "dataType": "@pembayaran",
+          "value": "$pembayaran",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a4bff950-3fca-4946-a2cb-811f0a013019",
+          "name": "persyaratanppdb",
+          "required": false,
+          "dataType": "@persyaratanppdb",
+          "value": "$persyaratanppdb",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "35a05d5e-6ab1-4be2-95ed-6625595bf6e3",
+          "name": "infoppdb",
+          "required": false,
+          "dataType": "@infoppdb",
+          "value": "$infoppdb",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Untuk informasi $pembayaran dapat dilihat pada website ini di menu \"PPDB\". Apabila Ayah/Bunda ingin melakukan pembayaran dapat melalui Rekening SD Muhammadiyah, yaitu BJB a.n SDS Muhammadiyah No. Rekening : 0020726156101. Silakan konfirmasi pembayaran melalui WhatsApp Tata Usaha 0896-5782-5312 (Dimas Eko Saputra).\n\nApa ada pertanyaan lagi?",
+            "$persyaratanppdb Penerimaan Peserta Didik Baru (PPDB) SD Muhammadiyah Bojonggede, yaitu : \n1. Telah Mencapai Kematangan Usia Sekolah.\n2. Mengisi Formulir Pendaftaran.\n3. Melampirkan Fotocopy Akta Kelahiran.\n4. Melampirkan Fotocopy Kartu Keluarga.\n5. Mengikuti Test.\n6. Menyelesaikan Biaya Administrasi.\n\nApa ada pertanyaan lagi?",
+            "$infoppdb SD Muhammadiyah Bojonggede.\nPenerimaan Peserta Didik Baru (PPDB) adalah sistem penerimaan calon peserta didik baru yang diselenggarakan pada 10 September 2022 sampai 30 Desember 2022 untuk gelombang 1 dan gelombang 2 pada 1 Januari 2023 sampai 30 Juni 2023.  Untuk informasi lebih lanjut Anda dapat mengakses menu PPDB pada website ini atau dapat menghubungi kontak SD Muhammadiyah Bojonggede, ya! \nApa ada pertanyaan lagi?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "$persyaratanppdb PPDB for the Admission of New Students SD Muhammadiyah Bojonggede, namely: \n1. Have reached school age maturity.\n2. Fill out the registration form.\n3. Attach a photocopy of birth certificate.\n4. Attach a copy of Family Card.\n5. Take the Test.\n6. Settle Administration Fees.\nAre there any more questions?",
+            "$infoppdb SD Muhammadiyah Bojonggede.\nNew Student Admission (PPDB) is a new student admission system held from September 10, 2022 to December 30, 2022 for batch 1 and batch 2 from January 1, 2023 to June 30, 2023.  For more information, you can access the PPDB menu on this website or contact SD Muhammadiyah Bojonggede, yes! \nAre there any more questions?",
+            "For information on $pembayaran can be seen on this website in the \"PPDB\" menu. If you want to make a payment, you can go through the SD Muhammadiyah Account, namely BJB SDS Muhammadiyah Account No. : 0020726156101. Please confirm payment via WhatsApp Administration 0896-5782-5312 (Dimas Eko Saputra).\nAre there any more questions?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

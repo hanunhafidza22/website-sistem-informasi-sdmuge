@@ -1,0 +1,107 @@
+[
+  {
+    "id": "c710bb5f-9baa-4136-a8bf-2dfc786406e2",
+    "data": [
+      {
+        "text": "microphone",
+        "meta": "@mikrofon",
+        "alias": "mikrofon",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10011753-0d22-49c3-b773-16dcb3ac2539",
+    "data": [
+      {
+        "text": "mic",
+        "meta": "@mikrofon",
+        "alias": "mikrofon",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "783cba49-b897-4a91-9bf8-3c83481c8326",
+    "data": [
+      {
+        "text": "My microphone isn\u0027t working",
+        "meta": "@mikrofon",
+        "alias": "mikrofon",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b15707e-cb9c-4ca2-a995-665033a6ec7e",
+    "data": [
+      {
+        "text": "i don\u0027t have microphone",
+        "meta": "@mikrofon",
+        "alias": "mikrofon",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e36eae13-a7c4-497d-9c16-e5f6a0db3d44",
+    "data": [
+      {
+        "text": "no microphone",
+        "meta": "@mikrofon",
+        "alias": "mikrofon",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "783e66fb-d6fc-4544-9a3c-a49bdad4990f",
+    "data": [
+      {
+        "text": "no mic",
+        "meta": "@mikrofon",
+        "alias": "mikrofon",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a572be8-96db-4160-80bd-2de550689c1d",
+    "data": [
+      {
+        "text": "Can\u0027t use voice",
+        "meta": "@mikrofon",
+        "alias": "mikrofon",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

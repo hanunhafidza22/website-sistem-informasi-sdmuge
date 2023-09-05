@@ -1,0 +1,9 @@
+{
+  "id": "e0d9b848-d33a-4127-a49a-5c62d1a61e77",
+  "name": "lanjutTanyaTidak",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,53 @@
+{
+  "id": "239895f5-8b07-44e0-a63b-faea1e957c23",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I don\u0027t understand. Can it be repeated?",
+            "I didn\u0027t hear you say what. Can you repeat it again?",
+            "Excuse me, repeatable?",
+            "Sorry, I don\u0027t understand. For further assistance you can contact us at https://linktr.ee/sdmuge2",
+            "Sorry, I haven\u0027t learned it yet. If you need further assistance, please contact us at https://linktr.ee/sdmuge2"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Saya tidak mengerti. Bisa diulangi?",
+            "Saya tidak dengar Anda bilang apa. Bisa ulangi lagi?",
+            "Maaf, bisa diulangi?",
+            "Maaf, saya tidak mengerti. Untuk bantuan lebih lanjut Anda dapat menghubungi kami di https://linktr.ee/sdmuge2",
+            "Maaf, saya belum mempelajarinya. Apabila kamu butuh bantuan lebih lanjut, silakan hubungi kami di https://linktr.ee/sdmuge2"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "41545604-7147-4ab0-8715-a37add26ff99",
+  "name": "tanyaFasilitas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "fasilitas",
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "SD Muhammadiyah Bojonggede memiliki fasilitas : Gedung sekolah milik sendiri, Ruang Belajar, Perpustakaan Al-Qolam, Aula Sekolah, Green house, Ruang Kepala Sekolah, Ruang Guru, Ruang Tamu, Kantin, Masjid Nurul Ilmi, Kendaraan Operasional, Ruang Kesenian, Lab Komputer, Ruang UKS, Tata Usaha, Ruang Security, Lapangan Olahraga, Area Parkir Guru dan Siswa, Kamar mandi Putra, Kamar mandi Putri, Tempat cuci tangan. Apa ada pertanyaan lagi ?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "SD Muhammadiyah Bojonggede has facilities: Own school building, Study Room, Al-Qolam Library, School Hall, Green house, Principal\u0027s Room, Teacher\u0027s Room, Living Room, Canteen, Nurul Ilmi Mosque, Operational Vehicle, Art Room, Computer Lab, UKS Room, Administration, Security Room, Sports Field, Teacher and Student Parking Area, Men\u0027s Bathroom, Daughter\u0027s Bathroom, Handwashing Station. Are there any more questions?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "4560ac4b-164e-49d5-8db8-b3bf21993794",
+  "name": "infoppdb",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

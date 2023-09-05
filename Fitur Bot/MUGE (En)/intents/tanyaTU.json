@@ -1,0 +1,67 @@
+{
+  "id": "344224b1-55f8-40af-9175-4a3f7d6366ce",
+  "name": "tanyaTU",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "tanyaTU",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d7a5a0f3-ae61-47c2-b5b3-71e3f4b38e66",
+          "name": "SPP1",
+          "required": false,
+          "dataType": "@SPP",
+          "value": "$SPP1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Tata Usaha SD Muhammadiyah Bojonggede Buka Senin s.d. Jum\u0027at pukul 08.00 sampai 14.00 \nApa ada pertanyaan lagi ?",
+            "Cara membayar $SPP1 dapat dilakukan di Tata Usaha atau dapat ditransfer melalui rekening sekolah. Rekening SD Muhammadiyah, yaitu BJB a.n SDS Muhammadiyah No. Rekening : 0020726156101. Apabila Anda membayar dengan metode transfer, silakan konfirmasi pembayaran melalui WhatsApp Tata Usaha 0896-5782-5312 (Dimas Eko Saputra).\nApa ada pertanyaan lagi ?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Administration of SD Muhammadiyah Bojonggede Open Monday to Friday 08.00 to 14.00 \nAre there any more questions?",
+            "How to pay $SPP1 can be done in Administration or can be transferred through a school account. SD Muhammadiyah Account, namely BJB a.n SDS Muhammadiyah Account No. : 0020726156101. If you pay by transfer method, please confirm payment via WhatsApp Administration 0896-5782-5312 (Dimas Eko Saputra).\nAre there any more questions?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "3f8b250c-32d5-4856-aebe-22682d5b1fa5",
+  "name": "pembayaran",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,426 @@
+[
+  {
+    "id": "14828bd7-648b-4d4f-be1f-7f68375b5303",
+    "data": [
+      {
+        "text": "principal",
+        "meta": "@kepsek",
+        "alias": "kepsek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf0ad546-dc01-406c-8796-22b80450102b",
+    "data": [
+      {
+        "text": "elearning",
+        "meta": "@elearning",
+        "alias": "elearning",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69f3d7cb-1b16-436c-966b-5baf3191456f",
+    "data": [
+      {
+        "text": "How do I access ",
+        "userDefined": false
+      },
+      {
+        "text": "e-learning",
+        "meta": "@elearning",
+        "alias": "elearning",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a159758b-5a1f-43cd-a5e3-a4ca621aa65d",
+    "data": [
+      {
+        "text": "e-learning",
+        "meta": "@elearning",
+        "alias": "elearning",
+        "userDefined": true
+      },
+      {
+        "text": " SD Muhammadiyah ",
+        "userDefined": false
+      },
+      {
+        "text": "Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "344993bd-b272-4d85-a168-73ca9f521beb",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "e-learning",
+        "meta": "@elearning",
+        "alias": "elearning",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae0f4da9-8986-45e9-b942-0823d619a5d5",
+    "data": [
+      {
+        "text": "Who is the ",
+        "userDefined": false
+      },
+      {
+        "text": "Principal",
+        "meta": "@kepsek",
+        "alias": "kepsek",
+        "userDefined": true
+      },
+      {
+        "text": " of SD Muhammadiyah ",
+        "userDefined": false
+      },
+      {
+        "text": "Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35d11898-5046-449a-9e2b-48f6129629c0",
+    "data": [
+      {
+        "text": "staff",
+        "meta": "@guru",
+        "alias": "guru",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e7ecbd5-6ed3-4b49-b17f-06d839e09725",
+    "data": [
+      {
+        "text": "teacher",
+        "meta": "@guru",
+        "alias": "guru",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "237d58d8-625d-4703-87ef-e5684d851ec5",
+    "data": [
+      {
+        "text": "Teachers and Staff",
+        "meta": "@guru",
+        "alias": "guru",
+        "userDefined": true
+      },
+      {
+        "text": " of SD Muhammadiyah ",
+        "userDefined": false
+      },
+      {
+        "text": "Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5156bb98-701a-4e3a-84bc-280839ec9091",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "wa",
+        "meta": "@kontak",
+        "alias": "kontak",
+        "userDefined": true
+      },
+      {
+        "text": " of SD Muhammadiyah Bojonggede?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6df17b3-de23-4489-bf82-4d052dcf88cb",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "ig",
+        "meta": "@kontak",
+        "alias": "kontak",
+        "userDefined": false
+      },
+      {
+        "text": " of SD Muhammadiyah Bojonggede?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aeb8b951-920e-43e6-a711-970610f1bbd1",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "fb",
+        "meta": "@kontak",
+        "alias": "kontak",
+        "userDefined": true
+      },
+      {
+        "text": " of SD Muhammadiyah Bojonggede?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fbdd840c-5d7d-4c00-8756-fecd36bcc2f3",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "yt",
+        "meta": "@kontak",
+        "alias": "kontak",
+        "userDefined": false
+      },
+      {
+        "text": " of SD Muhammadiyah Bojonggede?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0997a4f9-50a0-4576-ab86-9944ca38c1f8",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "meta": "@kontak",
+        "alias": "kontak",
+        "userDefined": true
+      },
+      {
+        "text": " of SD Muhammadiyah Bojonggede?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59da519b-bc4b-449f-9e19-b3935389fcf1",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@kontak",
+        "alias": "kontak",
+        "userDefined": true
+      },
+      {
+        "text": " of SD Muhammadiyah Bojonggede?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4427b54-24c0-45ff-9dd1-eb670e073ce7",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "meta": "@kontak",
+        "alias": "kontak",
+        "userDefined": true
+      },
+      {
+        "text": " of SD Muhammadiyah Bojonggede?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75eeadf9-7184-4094-9176-a9ec1bc2965e",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "WhatsApp number",
+        "meta": "@kontak",
+        "alias": "kontak",
+        "userDefined": true
+      },
+      {
+        "text": " of SD Muhammadiyah Bojonggede?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2368e2ce-04ae-4608-8972-6548ea64bb24",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "social media",
+        "meta": "@kontak",
+        "alias": "kontak",
+        "userDefined": true
+      },
+      {
+        "text": " of SD Muhammadiyah Bojonggede?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e5d3337-d9fc-4723-b0d0-3edfa7c9c80c",
+    "data": [
+      {
+        "text": "contact",
+        "meta": "@kontak",
+        "alias": "kontak",
+        "userDefined": false
+      },
+      {
+        "text": " SD Muhammadiyah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d563dc77-d05a-4aef-90fe-ec70a070515d",
+    "data": [
+      {
+        "text": "Is there a ",
+        "userDefined": false
+      },
+      {
+        "text": "contact",
+        "meta": "@kontak",
+        "alias": "kontak",
+        "userDefined": true
+      },
+      {
+        "text": " person?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

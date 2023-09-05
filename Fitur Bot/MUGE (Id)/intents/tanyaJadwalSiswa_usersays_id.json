@@ -1,0 +1,197 @@
+[
+  {
+    "id": "425143ed-91d6-4a7e-aa8e-3a003e63a100",
+    "data": [
+      {
+        "text": "jadwal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "462d72c8-0f1d-4fbb-a772-cb0fe3259753",
+    "data": [
+      {
+        "text": "jam masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "599d7033-d0da-4201-8671-90492e8e1d40",
+    "data": [
+      {
+        "text": "jam pulang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "578cdead-e110-4dd0-b44f-1d155498f233",
+    "data": [
+      {
+        "text": "jam istirahat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "37e6ec1d-5e60-48de-b6db-ff317555e031",
+    "data": [
+      {
+        "text": "kapan siswa SD Muhammadiyah istirahat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1ede25b8-b3e8-473c-aec3-e89fa0c1c38a",
+    "data": [
+      {
+        "text": "kapan siswa SD Muhammadiyah masuk sekolah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "bd80a270-c111-48c7-acd2-3291bbb02ba0",
+    "data": [
+      {
+        "text": "kapan siswa SD Muhammadiyah Pulang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "bd016876-7d7e-4383-8309-90e8c9c4b85a",
+    "data": [
+      {
+        "text": "jadwal siswa SD Muhammadiyah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f4776013-5035-4faa-a6df-ddbe3f3898c0",
+    "data": [
+      {
+        "text": "jadwal siswa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "dae0fab4-109e-4743-b542-73f615c4f345",
+    "data": [
+      {
+        "text": "jadwal siswa SD Muhammadiyah Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "94857d74-c391-41b6-bcd2-fa9e0e6f37da",
+    "data": [
+      {
+        "text": "jadwal istirahat siswa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "97441d5f-01a3-4f87-8f68-2b6ac8c532b3",
+    "data": [
+      {
+        "text": "jadwal masuk dan pulang siswa SD Muhammadiyah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "420bc67b-269a-42d6-8ae3-aee1c2ed66e8",
+    "data": [
+      {
+        "text": "jam berapa siswa SD Muhammadiyah pulang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4bde3b4c-5834-4871-b78c-c765b83da11a",
+    "data": [
+      {
+        "text": "Jadwal SD Muhammadiyah Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3c01e816-7a77-4c77-a37c-9e84dd988fad",
+    "data": [
+      {
+        "text": "Jadwal SD Muhammadiyah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

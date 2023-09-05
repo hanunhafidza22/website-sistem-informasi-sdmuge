@@ -1,0 +1,113 @@
+{
+  "id": "6ab91070-1142-4fbe-83d4-5e586f293161",
+  "name": "bantuan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "contact",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c6148960-8d40-4aa5-bd90-740ffa347063",
+          "name": "kontak",
+          "required": false,
+          "dataType": "@kontak",
+          "value": "$kontak",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2cea6da4-564e-4ea7-9792-75fd57ec2814",
+          "name": "guru",
+          "required": false,
+          "dataType": "@guru",
+          "value": "$guru",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "01c1bb17-414f-49d3-b210-b6cf38341d4c",
+          "name": "kepsek",
+          "required": false,
+          "dataType": "@kepsek",
+          "value": "$kepsek",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "555c2b82-4e70-4a70-a9e4-39b20dfe5f09",
+          "name": "elearning",
+          "required": false,
+          "dataType": "@elearning",
+          "value": "$elearning",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "$kontak SD Muhammadiyah Bojonggede.\nAnda dapat menghubungi kami di https://linktr.ee/sdmuge2 dan ikuti Media Sosial kami untuk mendapatkan informasi terbaru di \nYouTube : sdmuhammadiyahbojonggede2620 .\nFacebook : sdmuhammadiyahbojonggede.\nInstagram : sdmuhbojonggede. \nApa ada pertanyaan lagi?",
+            "$guru dan staff karyawan SD Muhammadiyah Bojonggede berjumlah 22 Orang. Untuk informasi mengenai guru dan staff SD Muhammadiyah, Anda dapat lihat pada Website ini di menu \"GURU\". \nApa ada pertanyaan lagi?",
+            "$kepsek SD Muhammadiyah Bojonggede adalah Nurul Nuzlia, M.Pd. \nApa ada pertanyaan lagi?",
+            "$elearning SD Muhammadiyah adalah media yang dikembangkan untuk menunjang pembelajaran secara online. Hal ini memberikan kemudahan kepada guru dan siswa untuk menggunakan teknologi sebagai pendukung kegiatan pembelajaran di kelas dengan pembelajaran elektronik. E-Learning ini hanya dapat diakses oleh Guru dan Siswa SD Muhammadiyah Bojonggede. Bagi kamu siswa/orangtua siswa SD Muhammadiyah yang belum memiliki akses ke E-Learning, silakan hubungi Nomor WhatsApp 0859-2699-3867 (Pak Amin).\nApa ada pertanyaan lagi?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "$kontak SD Muhammadiyah Bojonggede.\nYou can contact us at https://linktr.ee/sdmuge2 and follow our Social Media to get the latest information at \nYouTube : sdmuhammadiyahbojonggede2620 .\nFacebook : sdmuhammadiyahbojonggede.\nInstagram : sdmuhbojonggede. \nAre there any more questions?",
+            "$guru and staff employees of SD Muhammadiyah Bojonggede totaled 22 people. For information about teachers and staff of SD Muhammadiyah, you can see this website on the \"GURU\" menu. \nAre there any more questions?",
+            "$kepsek of SD Muhammadiyah Bojonggede is Nurul Nuzlia, M.Pd. \nAre there any more questions?",
+            "$elearning SD Muhammadiyah is a media developed to support online learning. This makes it easy for teachers and students to use technology to support learning activities in the classroom with electronic learning. This E-Learning can only be accessed by Teachers and Students of SD Muhammadiyah Bojonggede. For those of you students/parents of SD Muhammadiyah students who do not have access to E-Learning, please contact WhatsApp Number 0859-2699-3867 (Pak Amin).\nAre there any more questions?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "21e46eb3-f2e7-4ec9-8049-c1d4330d22af",
+  "name": "kurikulum",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

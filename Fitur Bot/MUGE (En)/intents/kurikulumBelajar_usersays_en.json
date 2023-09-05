@@ -1,0 +1,334 @@
+[
+  {
+    "id": "9dd15fcb-961b-48c7-9f37-42fbca026e48",
+    "data": [
+      {
+        "text": "field trip",
+        "meta": "@tanyafieldtrip",
+        "alias": "tanyafieldtrip",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2c692f5-d394-486b-b706-f5c769044bd1",
+    "data": [
+      {
+        "text": "Where did the ",
+        "userDefined": false
+      },
+      {
+        "text": "field trip",
+        "meta": "@tanyafieldtrip",
+        "alias": "tanyafieldtrip",
+        "userDefined": true
+      },
+      {
+        "text": " go?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52533d28-d5c2-4dfc-8c00-e07e35af95cf",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Field Trip",
+        "meta": "@tanyafieldtrip",
+        "alias": "tanyafieldtrip",
+        "userDefined": true
+      },
+      {
+        "text": " SD Muhammadiyah ",
+        "userDefined": false
+      },
+      {
+        "text": "Bojonggede",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cefdd18f-fefd-4c98-afa0-febc4174f20c",
+    "data": [
+      {
+        "text": "Shaum Sunnah",
+        "meta": "@shaum",
+        "alias": "shaum",
+        "userDefined": true
+      },
+      {
+        "text": " SD ",
+        "userDefined": false
+      },
+      {
+        "text": "Muhammadiyah",
+        "userDefined": false
+      },
+      {
+        "text": " Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c964103f-c004-4735-95e0-62dd216863bf",
+    "data": [
+      {
+        "text": "Girls\u0027 development",
+        "meta": "@keputrian",
+        "alias": "keputrian",
+        "userDefined": true
+      },
+      {
+        "text": " SD Muhammadiyah ",
+        "userDefined": false
+      },
+      {
+        "text": "Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52af362c-451b-460c-a00d-baf59d1a7e88",
+    "data": [
+      {
+        "text": "Girls\u0027 development",
+        "meta": "@keputrian",
+        "alias": "keputrian",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd09565f-5568-4c10-9968-ca928c98a95b",
+    "data": [
+      {
+        "text": "Daughterhood Coaching",
+        "meta": "@keputrian",
+        "alias": "keputrian",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad2314eb-b882-418d-bf69-d2c3fc7cb7b9",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Daughterhood Coaching",
+        "meta": "@keputrian",
+        "alias": "keputrian",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5db6e7e7-d1be-42a8-b610-ba99e3871311",
+    "data": [
+      {
+        "text": "Shaum Sunnah",
+        "meta": "@shaum",
+        "alias": "shaum",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad1c1a17-2a0c-4e5b-921f-d2ca7386e1aa",
+    "data": [
+      {
+        "text": "What is the program of ",
+        "userDefined": false
+      },
+      {
+        "text": "Shaum Sunnah",
+        "meta": "@shaum",
+        "alias": "shaum",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bed8ab42-d4de-4792-a26c-58d542da3367",
+    "data": [
+      {
+        "text": "extracurricular",
+        "meta": "@tanyaekskul",
+        "alias": "tanyaekskul",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7bc891f4-db7b-4be9-90aa-21a10ad32968",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "extracurriculars",
+        "meta": "@tanyaekskul",
+        "alias": "tanyaekskul",
+        "userDefined": true
+      },
+      {
+        "text": " at SD Muhamamdiyah Bojonggede?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7956a933-12fb-4174-b6e1-fa2caf9de501",
+    "data": [
+      {
+        "text": "learning",
+        "meta": "@kurikulum",
+        "alias": "kurikulum",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "SD",
+        "userDefined": false
+      },
+      {
+        "text": " Muhammadiyah Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b66f463-36df-4135-85d8-50f0cdc24e69",
+    "data": [
+      {
+        "text": "curriculum",
+        "meta": "@kurikulum",
+        "alias": "kurikulum",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2921204f-9568-4d4d-b3b3-e15c84611ea8",
+    "data": [
+      {
+        "text": "Learning Curriculum",
+        "meta": "@kurikulum",
+        "alias": "kurikulum",
+        "userDefined": true
+      },
+      {
+        "text": " at SD Muhammadiyah Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c604bfb-fd1a-4a43-ba4e-ee94bc7a7123",
+    "data": [
+      {
+        "text": "What do you ",
+        "userDefined": false
+      },
+      {
+        "text": "learn",
+        "meta": "@kurikulum",
+        "alias": "kurikulum",
+        "userDefined": true
+      },
+      {
+        "text": " at SD Muhammadiyah Bojonggede?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

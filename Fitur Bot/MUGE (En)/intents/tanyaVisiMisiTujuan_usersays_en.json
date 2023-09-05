@@ -1,0 +1,331 @@
+[
+  {
+    "id": "ad3ba700-a85a-4987-9f8a-6fe2e23e2b6a",
+    "data": [
+      {
+        "text": "mission",
+        "meta": "@misi",
+        "alias": "misi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d0872f7-892e-4413-a2c6-0806819bad7d",
+    "data": [
+      {
+        "text": "vision",
+        "meta": "@visi",
+        "alias": "visi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c2d4264-b170-4f3a-948a-47311a3e6348",
+    "data": [
+      {
+        "text": "mission",
+        "meta": "@misi",
+        "alias": "misi",
+        "userDefined": true
+      },
+      {
+        "text": " of SD Muhammdiyah ",
+        "userDefined": false
+      },
+      {
+        "text": "Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "656fd34a-11ac-4649-957c-cc69ed379987",
+    "data": [
+      {
+        "text": "vision",
+        "meta": "@visi",
+        "alias": "visi",
+        "userDefined": true
+      },
+      {
+        "text": " of SD Muhammdiyah ",
+        "userDefined": false
+      },
+      {
+        "text": "Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99c2513b-e905-4009-84ac-8ecb4e7f34a3",
+    "data": [
+      {
+        "text": "vision",
+        "meta": "@visi",
+        "alias": "visi",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "mission",
+        "meta": "@misi",
+        "alias": "misi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90e5c206-0473-4808-b936-2e660906dad6",
+    "data": [
+      {
+        "text": "objectives",
+        "meta": "@tujuan",
+        "alias": "tujuan",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "210aca9d-391a-4fb3-9c69-bd349a296bbb",
+    "data": [
+      {
+        "text": "purpose",
+        "meta": "@tujuan",
+        "alias": "tujuan",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5303bf8-c9f0-4eee-8ccd-b13b0dff58bc",
+    "data": [
+      {
+        "text": "goal",
+        "meta": "@tujuan",
+        "alias": "tujuan",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "105c5a29-ffd9-4569-9b5e-dcabfd4ac43f",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "purpose",
+        "meta": "@tujuan",
+        "alias": "tujuan",
+        "userDefined": true
+      },
+      {
+        "text": " of SD Muhammadiyah ",
+        "userDefined": false
+      },
+      {
+        "text": "Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "056e8213-96ff-490d-86be-d8d48fc64747",
+    "data": [
+      {
+        "text": "advantages",
+        "meta": "@keunggulan",
+        "alias": "keunggulan",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7429c54-b592-404a-ab7d-1696fd620852",
+    "data": [
+      {
+        "text": "achievements",
+        "meta": "@keunggulan",
+        "alias": "keunggulan",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d44846f-e461-45d6-af62-ae8e9adead41",
+    "data": [
+      {
+        "text": "what are the ",
+        "userDefined": false
+      },
+      {
+        "text": "achievements",
+        "meta": "@keunggulan",
+        "alias": "keunggulan",
+        "userDefined": true
+      },
+      {
+        "text": " of SD Muhammadiyah ",
+        "userDefined": false
+      },
+      {
+        "text": "Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4bc58d1d-d96d-4446-8105-1c51bb2082c8",
+    "data": [
+      {
+        "text": "what are the ",
+        "userDefined": false
+      },
+      {
+        "text": "advantages",
+        "meta": "@keunggulan",
+        "alias": "keunggulan",
+        "userDefined": true
+      },
+      {
+        "text": " of SD Muhammadiyah ",
+        "userDefined": false
+      },
+      {
+        "text": "Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1fd24acc-69ae-4c87-92dd-144a87eec283",
+    "data": [
+      {
+        "text": "accreditation",
+        "meta": "@tanyaAkre",
+        "alias": "tanyaAkre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac8fc72f-856a-4094-bc47-69ecbf786326",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "accreditation of SD Muhammadiyah Bojonggede",
+        "meta": "@tanyaAkre",
+        "alias": "tanyaAkre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d484557-d542-4cdd-a92d-880daa47b37f",
+    "data": [
+      {
+        "text": "Brief History",
+        "meta": "@sejarah",
+        "alias": "sejarah",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e596cf9-6875-4910-bf0d-0af1e5c454b9",
+    "data": [
+      {
+        "text": "history",
+        "meta": "@sejarah",
+        "alias": "sejarah",
+        "userDefined": true
+      },
+      {
+        "text": " of SD Muhammadiyah ",
+        "userDefined": false
+      },
+      {
+        "text": "Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

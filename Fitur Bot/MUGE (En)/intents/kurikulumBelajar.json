@@ -1,0 +1,129 @@
+{
+  "id": "7fd88542-834b-4373-ac76-6b8add1173e5",
+  "name": "kurikulumBelajar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "kurikulumBelajar",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "efbb2aa7-c9de-4905-bac5-937a3e75b369",
+          "name": "tanyaekskul",
+          "required": false,
+          "dataType": "@tanyaekskul",
+          "value": "$tanyaekskul",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "99839810-2eca-429d-bb1e-f403de09f30b",
+          "name": "shaum",
+          "required": false,
+          "dataType": "@shaum",
+          "value": "$shaum",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "bf3e38b2-ac3c-4b37-abdf-61dac3da925d",
+          "name": "keputrian",
+          "required": false,
+          "dataType": "@keputrian",
+          "value": "$keputrian",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "31e90944-00f8-4031-938a-68030a201bf2",
+          "name": "tanyafieldtrip",
+          "required": false,
+          "dataType": "@tanyafieldtrip",
+          "value": "$tanyafieldtrip",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3b0fa7ac-fb71-4c98-be7f-66b3520ec388",
+          "name": "kurikulum",
+          "required": false,
+          "dataType": "@kurikulum",
+          "value": "$kurikulum",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "SD Muhammadiyah Bojonggede Menerapkan $kurikulum  :\n1. Merdeka Belajar\n2. Pendidikan Al-Islam, Kemuhammadiyahan dan Bahasa Arab (ISMUBA)\n3. Kurikulum 2013\n\nApa ada pertanyaan lagi ?",
+            "$tanyaekskul di SD Muhammadiyah Bojonggede diantaranya, yaitu Drum Band, futsal, Membatik, Melukis, Menari, Pantomim, Menganyam, Tahfidz, Gitar, Basket, Bahasa Inggris, dan Panahan. Untuk mendaftarkan siswa ke ekskul terkait dan informasi mengenai biaya tiap ekskul, silakan hubungi wali kelas masing-masing, ya!\n\nApa ada pertanyaan lagi ?",
+            "Program $shaum adalah program melaksanakan shaum (puasa) sunnah pada hari Senin dan Kamis di setiap minggu. Seperti namanya, yaitu Shaum Sunnah, maka Shaum ini boleh dilaksanakan dan boleh tidak dilaksanakan oleh siswa. Namun, bagi siswa yang tidak melaksanakan shaum sunnah diharapkan untuk menghormati teman-temannya yang melaksanakan Shaum sunnah ini ya!\n\nApa ada pertanyaan lagi ?",
+            "Pembinaan $keputrian SD Muhammadiyah Bojonggede adalah kegiatan rutin mingguan bagi siswa putri kelas 1 sampai 6 yang dilaksanakan di Aula SD Muhammadiyah Bojonggede pada saat siswa laki-laki melaksanakan ibadah sholat Jum\u0027at. Pembinaan keputrian dilakukan dibawah bimbingan guru perempuan. \n\nApa ada pertanyaan lagi ?",
+            "$tanyafieldtrip (Karya Wisata) SD Muhammadiyah Bojonggede adalah metode pembelajaran yang menyenangkan, di mana siswa diharuskan belajar di luar kelas (outdoor). Field trip bertujuan untuk mencoba hal baru serta mendapatkan pengalaman berbeda dalam belajar. Di SD Muhammadiyah Bojonggede Field Trip dilaksanakan tidak menentu, sesuai dengan kesepakatan pihak sekolah. Jadi untuk para orangtua siswa atau siswa yang ingin mengetahui informasi lebih lanjut mengenai Field Trip ini, dapat bertanya langsung pada pihak wali kelas ya! \nApa ada pertanyaan lagi ?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "SD Muhammadiyah Bojonggede Implementing $kurikulum :\n1. Free Learning\n2. Al-Islam, Kemuhammadiyahan and Arabic Language Education (ISMUBA)\n3. Curriculum 2013\n\nAre there any more questions?",
+            "$tanyaekskul at SD Muhammadiyah Bojonggede include, among others, Drum Band, futsal, Batik Making, Painting, Dancing, Mime, Weaving, Tahfidz, Guitar, Basketball, English, and Archery. To enroll students in the relevant extracurricular and information about the cost of each extracurricular, please contact the homeroom teacher!\n\nAre there any more questions?",
+            "The program of $shaum is the program of performing shaum (fasting) sunnah on Monday and Thursday of every week. As the name suggests, namely Shaum Sunnah, then this Shaum can be performed and may not be carried out by students. However, for students who do not observe the Sunnah Shaum are expected to respect their friends who practice this Sunnah Shaum yes!\n\nAre there any more questions?",
+            "$keputrian at SD Muhammadiyah Bojonggede is a weekly routine activity for female students in grades 1 to 6 which is carried out in the Hall of SD Muhammadiyah Bojonggede when male students perform Friday prayers. Daughterhood formation is carried out under the guidance of female teachers. \n\nAre there any more questions?",
+            "$tanyafieldtrip of SD Muhammadiyah Bojonggede is a fun learning method, where students are required to study outside the classroom (outdoor). Field trips aim to try new things and get different experiences in learning. At SD Muhammadiyah Bojonggede Field Trip was carried out erratically, in accordance with the agreement of the school. So for parents or students who want to find out more information about this Field Trip, you can ask the homeroom teacher directly! \nAre there any more questions?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,214 @@
+[
+  {
+    "id": "a5cba06b-74a6-431a-8228-a8810361c660",
+    "data": [
+      {
+        "text": "tanya ",
+        "userDefined": false
+      },
+      {
+        "text": "PPDB",
+        "meta": "@infoppdb",
+        "alias": "infoppdb",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ed0c770f-9f26-4290-8a71-fe2de84d8a0f",
+    "data": [
+      {
+        "text": "bagaimana ",
+        "userDefined": false
+      },
+      {
+        "text": "mendaftar peserta didik baru",
+        "meta": "@infoppdb",
+        "alias": "infoppdb",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9a66648c-5614-462e-9b57-5570620653dd",
+    "data": [
+      {
+        "text": "jadwal ",
+        "userDefined": false
+      },
+      {
+        "text": "ppdb",
+        "meta": "@infoppdb",
+        "alias": "infoppdb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fceac404-04ff-4d67-8a79-a65c725d6f77",
+    "data": [
+      {
+        "text": "jadwal ",
+        "userDefined": false
+      },
+      {
+        "text": "pendaftaran peserta didik baru",
+        "meta": "@infoppdb",
+        "alias": "infoppdb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b2f54369-fb35-4947-9fc3-d6793b629af8",
+    "data": [
+      {
+        "text": "bagaimana ",
+        "userDefined": false
+      },
+      {
+        "text": "pendaftaran peserta didik baru",
+        "meta": "@infoppdb",
+        "alias": "infoppdb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "271355d9-d1c1-471c-b0aa-2d22fff0a97c",
+    "data": [
+      {
+        "text": "apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "penerimaan peserta didik baru",
+        "meta": "@infoppdb",
+        "alias": "infoppdb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b01e39c3-4b31-4796-a659-ef751f5c01ba",
+    "data": [
+      {
+        "text": "info ",
+        "userDefined": false
+      },
+      {
+        "text": "ppdb",
+        "meta": "@infoppdb",
+        "alias": "infoppdb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "cec4994b-466a-45ff-8b3f-3317489f60c2",
+    "data": [
+      {
+        "text": "ppdb",
+        "meta": "@infoppdb",
+        "alias": "infoppdb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "719232ce-9a49-4767-b87e-f3dc77d42789",
+    "data": [
+      {
+        "text": "Syarat",
+        "meta": "@persyaratanppdb",
+        "alias": "persyaratanppdb",
+        "userDefined": true
+      },
+      {
+        "text": " PPDB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "41ce09f7-7e64-4531-bc1c-387a9ad3703d",
+    "data": [
+      {
+        "text": "persyaratan",
+        "meta": "@persyaratanppdb",
+        "alias": "persyaratanppdb",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9ee3bfb8-dd66-4355-851f-9d5f7b0c5615",
+    "data": [
+      {
+        "text": "pembayaran ppdb",
+        "meta": "@pembayaran",
+        "alias": "pembayaran",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0b64b286-eabb-4b84-97da-140677b490b3",
+    "data": [
+      {
+        "text": "biaya ppdb",
+        "meta": "@pembayaran",
+        "alias": "pembayaran",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

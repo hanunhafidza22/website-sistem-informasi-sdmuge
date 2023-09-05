@@ -1,0 +1,55 @@
+{
+  "id": "22b11db6-efab-4331-aa7d-9e6ee9ce7438",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Wa\u0027alaikumsalam. Hai, Selamat Datang! Perkenalkan Saya MUGE-Bot. Ada yang bisa saya bantu?\n\nUntuk pengalaman yang lebih baik dengan Muge-Bot, silakan aktifkan fitur Teks Pidato (Speech Text) pada pojok kanan atas.",
+            "Halo, Selamat Datang! Perkenalkan Saya MUGE-Bot. Untuk pengalaman yang lebih baik dengan Muge-Bot, silakan aktifkan fitur Teks Pidato (Speech Text) pada pojok kanan atas. \n\nAda yang bisa saya bantu?",
+            "Selamat Datang! Perkenalkan Saya MUGE-Bot.\n\nUntuk pengalaman yang lebih baik dalam menggunakan Muge-Bot, silakan mengaktifkan fitur Teks Pidato (Speech Text) pada pojok kanan atas. Kamu dapat bertanya dengan mikrofon pada keyboard untuk bertanya menggunakan suara atau ketik teks pada kolom teks yang tersedia.",
+            "Halo. Perkenalkan Saya Muge-Bot. Untuk pengalaman yang lebih baik dalam menggunakan Muge-Bot, silakan mengaktifkan fitur Teks Pidato (Speech Text) pada pojok kanan atas. Dan silakan bertanya menggunakan suara atau teks, ya!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Wa\u0027alaikumsalam. Hi, Welcome! Introduce me MUGE-Bot. How can I help you?\n\nFor a better experience with Muge-Bot, please enable the Speech Text feature in the upper right corner.",
+            "Hello, welcome! Introduce me MUGE-Bot. For a better experience with Muge-Bot, please enable the Speech Text feature in the upper right corner. \n\nHow can I help you?",
+            "Welcome! Introduce me MUGE-Bot.\n\nFor a better experience in using Muge-Bot, please enable the Speech Text feature in the upper right corner. You can ask questions with the microphone on the keyboard to ask questions using your voice or type text in the text field provided.",
+            "Hello. Introduce me Muge-bot. For a better experience in using Muge-Bot, please enable the Speech Text feature in the upper right corner. And feel free to ask using voice or text!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

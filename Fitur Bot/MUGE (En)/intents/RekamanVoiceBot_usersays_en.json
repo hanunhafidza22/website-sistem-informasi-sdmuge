@@ -1,0 +1,54 @@
+[
+  {
+    "id": "8a2ba6c7-f6bd-4bec-a5ef-2587521ad4dc",
+    "data": [
+      {
+        "text": "recordings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "606962e4-9887-44fa-a3c3-cfeb33edc340",
+    "data": [
+      {
+        "text": "voice bot recordings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b633a8d-5e62-4431-8143-2e4b9a53f318",
+    "data": [
+      {
+        "text": "Download voice bot Download voice bot recording",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9467b5e3-e660-45b7-9285-e20bcccd3998",
+    "data": [
+      {
+        "text": "Download",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

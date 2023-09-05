@@ -1,0 +1,348 @@
+[
+  {
+    "id": "8f61c310-6efe-446b-8dcf-8e6cff0e9046",
+    "data": [
+      {
+        "text": "e-learning",
+        "meta": "@elearning",
+        "alias": "elearning",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5feecf22-7c9d-48c1-9edf-2792c27d0cde",
+    "data": [
+      {
+        "text": "bagaimana cara akses ",
+        "userDefined": false
+      },
+      {
+        "text": "e-learning",
+        "meta": "@elearning",
+        "alias": "elearning",
+        "userDefined": true
+      },
+      {
+        "text": " SD Muhammadiyah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9f640d5b-022a-4665-8020-c4be08f97422",
+    "data": [
+      {
+        "text": "apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "e-learning",
+        "meta": "@elearning",
+        "alias": "elearning",
+        "userDefined": true
+      },
+      {
+        "text": " SD Muhammdiyah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9f4f7e4e-0834-4d23-91bf-7148dc8a349a",
+    "data": [
+      {
+        "text": "siapa ",
+        "userDefined": false
+      },
+      {
+        "text": "kepsek",
+        "meta": "@kepsek",
+        "alias": "kepsek",
+        "userDefined": true
+      },
+      {
+        "text": " SD Muhammadiyah Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b62d12ca-79e8-432e-abc9-4b0b84d4d502",
+    "data": [
+      {
+        "text": "kepala sekolah",
+        "meta": "@kepsek",
+        "alias": "kepsek",
+        "userDefined": true
+      },
+      {
+        "text": " SD Muhammadiyah Bojonggede?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "63d14fe8-a696-4730-a57c-94d20e8144c1",
+    "data": [
+      {
+        "text": "siapa ",
+        "userDefined": false
+      },
+      {
+        "text": "kepala sekolah",
+        "meta": "@kepsek",
+        "alias": "kepsek",
+        "userDefined": true
+      },
+      {
+        "text": " SD Muhammadiyah Bojonggede?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e65ff91f-6373-4e1c-9ad8-7f12864787ba",
+    "data": [
+      {
+        "text": "guru",
+        "meta": "@guru",
+        "alias": "guru",
+        "userDefined": true
+      },
+      {
+        "text": " dan ",
+        "userDefined": false
+      },
+      {
+        "text": "staff",
+        "meta": "@guru",
+        "alias": "guru",
+        "userDefined": true
+      },
+      {
+        "text": " SD Muhammadiyah Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f2ae9620-9950-471e-8ee9-4c52a1d96ae1",
+    "data": [
+      {
+        "text": "guru",
+        "meta": "@guru",
+        "alias": "guru",
+        "userDefined": true
+      },
+      {
+        "text": " SD Muhammadiyah Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "68247731-b965-4d0e-b9d7-2eff2500ca63",
+    "data": [
+      {
+        "text": "ada berapa ",
+        "userDefined": false
+      },
+      {
+        "text": "guru",
+        "meta": "@guru",
+        "alias": "guru",
+        "userDefined": true
+      },
+      {
+        "text": " di SD Muhammadiyah Bojonggede?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "289b6dbc-1788-4f89-a3de-53719c5fa8f9",
+    "data": [
+      {
+        "text": "facebook",
+        "meta": "@kontak",
+        "alias": "kontak",
+        "userDefined": false
+      },
+      {
+        "text": " SD Muhammadiyah Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f8d7fd3d-5b0e-483c-92bd-e09e0262d524",
+    "data": [
+      {
+        "text": "youtube",
+        "meta": "@kontak",
+        "alias": "kontak",
+        "userDefined": false
+      },
+      {
+        "text": " SD Muhammadiyah Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f56a1acc-c8d0-4888-b867-e1ae5937bec4",
+    "data": [
+      {
+        "text": "instagram",
+        "meta": "@kontak",
+        "alias": "kontak",
+        "userDefined": false
+      },
+      {
+        "text": " SD Muhammadiyah Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "197daf4e-b561-4682-a2a4-f4d811117952",
+    "data": [
+      {
+        "text": "apa ",
+        "userDefined": false
+      },
+      {
+        "text": "media sosial",
+        "meta": "@kontak",
+        "alias": "kontak",
+        "userDefined": true
+      },
+      {
+        "text": " SD Muhammadiyah Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "41fcb0c7-cafe-4a2c-a553-918f94987066",
+    "data": [
+      {
+        "text": "berapa ",
+        "userDefined": false
+      },
+      {
+        "text": "nomor whatsapp",
+        "meta": "@kontak",
+        "alias": "kontak",
+        "userDefined": true
+      },
+      {
+        "text": " sekolah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "54492acd-4e14-449b-a429-5ac8a20b8956",
+    "data": [
+      {
+        "text": "ada ",
+        "userDefined": false
+      },
+      {
+        "text": "nomor whatsapp",
+        "meta": "@kontak",
+        "alias": "kontak",
+        "userDefined": true
+      },
+      {
+        "text": " yang bisa dihubungi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b64f2da1-3267-44fc-8e6e-a7028459deda",
+    "data": [
+      {
+        "text": "adakah ",
+        "userDefined": false
+      },
+      {
+        "text": "kontak",
+        "meta": "@kontak",
+        "alias": "kontak",
+        "userDefined": true
+      },
+      {
+        "text": " yang bisa dihubungi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

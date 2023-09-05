@@ -1,0 +1,104 @@
+[
+  {
+    "id": "22104a72-3b6c-4189-8629-8c2afe6ba0f6",
+    "data": [
+      {
+        "text": "unduh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b1ecb19a-97f4-4d2f-879e-0fadf3302ae6",
+    "data": [
+      {
+        "text": "download",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e2eccda2-bbfd-48ef-9396-06368b0eea0c",
+    "data": [
+      {
+        "text": "download percakapan ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fee28d72-97b2-4eb8-9f7b-4795358e355a",
+    "data": [
+      {
+        "text": "download ",
+        "userDefined": false
+      },
+      {
+        "text": "histori",
+        "userDefined": false
+      },
+      {
+        "text": " chat ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7eb38843-4c2b-47a1-bf03-2672f38a38a3",
+    "data": [
+      {
+        "text": "saya ingin mengunduh ",
+        "userDefined": false
+      },
+      {
+        "text": "histori",
+        "userDefined": false
+      },
+      {
+        "text": " chat ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "292c157b-0cf8-4205-be92-c8c830b13721",
+    "data": [
+      {
+        "text": "unduh ",
+        "userDefined": false
+      },
+      {
+        "text": "histori",
+        "userDefined": false
+      },
+      {
+        "text": " chat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

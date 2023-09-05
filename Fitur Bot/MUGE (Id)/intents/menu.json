@@ -1,0 +1,209 @@
+{
+  "id": "2d5febde-bd6a-4331-9ee5-614d88d4a6e0",
+  "name": "menu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Please select the menu below!",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "list_card",
+          "platform": "google",
+          "title": "Menu",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "image": {},
+              "optionInfo": {
+                "key": "Ask PPDB",
+                "synonyms": []
+              },
+              "title": "Ask PPDB",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            },
+            {
+              "description": "",
+              "image": {},
+              "optionInfo": {
+                "key": "Ask Student Schedules",
+                "synonyms": []
+              },
+              "title": "Ask Student Schedules",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            },
+            {
+              "description": "",
+              "image": {},
+              "optionInfo": {
+                "key": "Ask Facilities",
+                "synonyms": []
+              },
+              "title": "Ask Facilities",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            },
+            {
+              "description": "",
+              "image": {},
+              "optionInfo": {
+                "key": "Download Voice Bot Recordings",
+                "synonyms": []
+              },
+              "title": "Download Voice Bot Recordings",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            },
+            {
+              "description": "",
+              "image": {},
+              "optionInfo": {
+                "key": "Ask Others",
+                "synonyms": []
+              },
+              "title": "Ask Others",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Silakan pilih menu di bawah ini!",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "list_card",
+          "platform": "google",
+          "title": "Menu",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "image": {},
+              "optionInfo": {
+                "key": "Tanya PPDB",
+                "synonyms": []
+              },
+              "title": "Tanya PPDB",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            },
+            {
+              "description": "",
+              "image": {},
+              "optionInfo": {
+                "key": "Tanya Jadwal Siswa",
+                "synonyms": []
+              },
+              "title": "Tanya Jadwal Siswa",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            },
+            {
+              "description": "",
+              "image": {},
+              "optionInfo": {
+                "key": "Tanya Fasilitas",
+                "synonyms": []
+              },
+              "title": "Tanya Fasilitas",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            },
+            {
+              "description": "",
+              "image": {},
+              "optionInfo": {
+                "key": "Download Rekaman Voice Bot",
+                "synonyms": []
+              },
+              "title": "Download Rekaman Voice Bot",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            },
+            {
+              "description": "",
+              "image": {},
+              "optionInfo": {
+                "key": "Tanya Lainnya",
+                "synonyms": []
+              },
+              "title": "Tanya Lainnya",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "value": "contact",
+    "synonyms": [
+      "contact"
+    ]
+  },
+  {
+    "value": "facebook",
+    "synonyms": [
+      "facebook",
+      "fb"
+    ]
+  },
+  {
+    "value": "instagram",
+    "synonyms": [
+      "instagram",
+      "ig"
+    ]
+  },
+  {
+    "value": "youtube",
+    "synonyms": [
+      "youtube",
+      "yt"
+    ]
+  }
+]

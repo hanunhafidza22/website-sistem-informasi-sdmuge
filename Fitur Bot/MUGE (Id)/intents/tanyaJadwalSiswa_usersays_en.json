@@ -1,0 +1,110 @@
+[
+  {
+    "id": "830f07bd-7792-4e3c-b61e-b78a8aefdf08",
+    "data": [
+      {
+        "text": "student schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0dbf56d-4922-43b2-be14-b11b93a872e6",
+    "data": [
+      {
+        "text": "schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2313c04-a0cc-40db-9df8-2b714ada34e9",
+    "data": [
+      {
+        "text": "After School Hours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a2e4d21-e950-4152-97e3-2dad707d628f",
+    "data": [
+      {
+        "text": "School Entrance Hours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c31e2cba-24cb-4d4a-b900-5b6cc48def23",
+    "data": [
+      {
+        "text": "break hours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5519a440-2315-40be-9a42-25284f5686ad",
+    "data": [
+      {
+        "text": "Rest hours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "097c55a3-c88a-407f-a272-8bbb80d53aee",
+    "data": [
+      {
+        "text": "When do students of SD Muhammadiyah Bojonggede take a break?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "040ccd22-7d2b-4f28-b9b1-3804a8ce24be",
+    "data": [
+      {
+        "text": "Student Schedule of SD Muhammadiyah ",
+        "userDefined": false
+      },
+      {
+        "text": "Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

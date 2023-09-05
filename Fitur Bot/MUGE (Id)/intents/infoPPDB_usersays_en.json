@@ -1,0 +1,165 @@
+[
+  {
+    "id": "972f44aa-ce68-441e-8095-7edb4684cd38",
+    "data": [
+      {
+        "text": "payment for PPDB",
+        "meta": "@pembayaran",
+        "alias": "pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8e2c41f-b047-46bf-8d3e-7bb3a9e159c5",
+    "data": [
+      {
+        "text": "cost",
+        "meta": "@pembayaran",
+        "alias": "pembayaran",
+        "userDefined": true
+      },
+      {
+        "text": " ppdb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9037fdd-2397-4a34-b5bd-d9233b3a5cba",
+    "data": [
+      {
+        "text": "PPDB Cost",
+        "meta": "@pembayaran",
+        "alias": "pembayaran",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d1800ca-2d7f-430f-977b-c2d973d981ab",
+    "data": [
+      {
+        "text": "PPDB Payment",
+        "meta": "@pembayaran",
+        "alias": "pembayaran",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a65ca39-caca-4996-8af8-09c4cd8e577b",
+    "data": [
+      {
+        "text": "How to sign up new students",
+        "meta": "@infoppdb",
+        "alias": "infoppdb",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a90c7e2b-988e-4e57-834e-7f5605eb659d",
+    "data": [
+      {
+        "text": "PPDB",
+        "meta": "@infoppdb",
+        "alias": "infoppdb",
+        "userDefined": true
+      },
+      {
+        "text": " Schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8326ef07-c634-496b-bb61-ccba51de4565",
+    "data": [
+      {
+        "text": "Ask ",
+        "userDefined": false
+      },
+      {
+        "text": "PPDB",
+        "meta": "@infoppdb",
+        "alias": "infoppdb",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3de4920b-1bfc-4e52-8389-f2026fb09abe",
+    "data": [
+      {
+        "text": "PPDB ",
+        "userDefined": false
+      },
+      {
+        "text": "Requirements",
+        "meta": "@persyaratanppdb",
+        "alias": "persyaratanppdb",
+        "userDefined": true
+      },
+      {
+        "text": " for SD Muhammadiyah Bojonggede?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1824323d-649e-4fa2-8c8e-742cef148132",
+    "data": [
+      {
+        "text": "What are the PPDB ",
+        "userDefined": false
+      },
+      {
+        "text": "requirements",
+        "meta": "@persyaratanppdb",
+        "alias": "persyaratanppdb",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

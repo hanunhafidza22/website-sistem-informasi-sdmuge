@@ -1,0 +1,147 @@
+{
+  "id": "6d21f506-ddfa-4be6-a18b-0c8599816d35",
+  "name": "tanyaVisiMisiTujuan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "visimisi",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2fbe9ba2-b150-4a05-ac6e-69f680dd786c",
+          "name": "sejarah",
+          "required": false,
+          "dataType": "@sejarah",
+          "value": "$sejarah",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d089b2a4-3055-4321-b807-1041a93b4291",
+          "name": "tanyaAkre",
+          "required": false,
+          "dataType": "@tanyaAkre",
+          "value": "$tanyaAkre",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "39169fb8-afe8-4666-998a-b0ae99d98165",
+          "name": "keunggulan",
+          "required": false,
+          "dataType": "@keunggulan",
+          "value": "$keunggulan",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "02cb510a-e442-44fe-8c85-bfb62e9a2480",
+          "name": "visi",
+          "required": false,
+          "dataType": "@visi",
+          "value": "$visi",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "077e162f-fd7e-472e-8f7d-1d7ba6635072",
+          "name": "misi",
+          "required": false,
+          "dataType": "@misi",
+          "value": "$misi",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4765905b-6fc7-4f74-b515-7bffccb01ea4",
+          "name": "tujuan",
+          "required": false,
+          "dataType": "@tujuan",
+          "value": "$tujuan",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "$sejarah singkat SD Muhammadiyah Bojonggede.\nSD Muhammadiyah Bojonggede berdiri tahun 1994, SD Muhammadiyah Bojonggede merupakan amal usaha Pimpinan Daerah Muhamamdiyah Jakarta Selatan (ekspansi PDM Jak-Sel). Apa ada pertanyaan lagi ?",
+            "$tanyaAkre SD Muhammadiyah Bojonggede memiliki Akreditasi \"A\", yaitu Amat Baik.\n\nApa ada pertanyaan lagi ?",
+            "$keunggulan Bersekolah di SD Muhammadiyah Bojonggede, yaitu :\n1. Tahfidz Al-Qur\u0027an.\n2. Sekolah Penggerak.\n3. Field Trip.\n4. Program Shaum Sunnah (Senin dan Kamis).\n5. Pembiasaan Sholat Berjamaah.\n6. Pembiasan Sholat Dhuha.\n7. Pembinaan Keputrian.\nPrestasi SD Muhammadiyah, yaitu sebagai Sekolah Adiwiyata, Sekolah Sehat, dan Sekolah Penggerak.\nApa ada pertanyaan lagi ?",
+            "$tujuan SD Muhammadiyah Bojonggede :\n1.Dapat mengamalkan ajaran agama hasil proses pembelajaran dan kegiatan pembiasaan.\n2.Meraih prestasi akademik maupun nonakademik minimal tingkat Kabupaten/Kota.\n3.Menguasai dasar-dasar ilmu pengetahuan dan teknologi sebagai bekal untuk melanjutkan ke sekolah yang lebih tinggi;\n4.Menjadi sekolah pelopor dan penggerak di lingkungan masyarakat sekitar;\n5.Menjadi sekolah yang diminati di masyarakat.\nApa ada pertanyaan lagi ?",
+            "$visi SD Muhammadiyah Bojonggede :\nMewujudkan peserta didik yang berakhlaq mulia, berprestasi, dan berwawasan global yang dilandasi nilai-nilai budaya luhur sesuai dengan ajaran Agama Islam.\nApa ada pertanyaan lagi ?",
+            "$misi SD Muhammadiyah Bojonggede :\n1.Menanamkan keyakinan / akidah melalui pengamalan ajaran agama Islam. \n2.Melaksanakan pembelajaran dan bimbingan secara efektif sehingga potensi siswa dapat berkembang secara optimal.\n3.Mengembangkan pengetahuan dalam bidang teknologi, bahasa, olahraga dan seni budaya sesuai dengan bakat, minat dan potensi siswa. \n4.Mengembangkan budaya disiplin dan etos kerja. \n5.Menjalin kerjasama yang harmonis antara warga sekolah dengan lingkungan. \nApa ada pertanyaan lagi ?",
+            "$visi dan $misi : Menanamkan keyakinan/akidah melalui pengamalan ajaran agama Islam, Melaksanakan pembelajaran \u0026 bimbingan secara efektif sehingga potensi siswa dapat berkembang secara optimal, Mengembangkan pengetahuan dalam bidang teknologi, bahasa, olahraga \u0026 seni budaya sesuai dengan bakat, minat \u0026 potensi siswa, Mengembangkan budaya disiplin dan etos kerja, Menjalin kerjasama yang harmonis antara warga sekolah dengan lingkungan. Untuk visi misi selengkapnya kamu bisa cek di Menu Profil Website ini ya! Apa ada pertanyaan lagi ?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "a $sejarah of SD Muhammadiyah Bojonggede.\nSD Muhammadiyah Bojonggede was established in 1994, SD Muhammadiyah Bojonggede is a charitable effort of the Regional Leadership of Muhamamdiyah South Jakarta (expansion of PDM Jak-Sel). Are there any more questions?",
+            "$tanyaAkre SD Muhammadiyah Bojonggede has Accreditation \"A\", which is Very Good. Are there any more questions?",
+            "$keunggulan of studying at SD Muhammadiyah Bojonggede, namely :\n1. Tahfidz of the Qur\u0027an.\n2. Movers School.\n3. Field Trip.\n4. Shaum Sunnah Program (Monday and Thursday).\n5. Habituation of congregational prayer.\n6. Refraction of Dhuha Prayer.\n7. Daughterhood Coaching.\nThe achievements of SD Muhammadiyah are as Adiwiyata School, Healthy School, and Mobilizer School.\nAre there any more questions?",
+            "$tujuan of SD Muhammadiyah Bojonggede :\n1. Able to practice religious teachings as a result of the learning process and habituation activities.\n2. Achieve academic and non-academic achievements at least at the Regency / City level.\n3. Mastering the basics of science and technology as a provision to continue to higher school;\n4. Become a pioneer school and mobilizer in the surrounding community;\n5.Become a school that is in demand in the community.\nAre there any more questions?",
+            "$visi of SD Muhammadiyah Bojonggede :\nCreating students who have noble character, achievement, and global insight based on noble cultural values in accordance with the teachings of Islam.\nAre there any more questions?",
+            "$misi of SD Muhammadiyah Bojonggede :\n1. Instilling faith / creed through the practice of Islamic religious teachings. \n2. Carry out learning and guidance effectively so that students\u0027 potential can develop optimally.\n3.Develop knowledge in the fields of technology, language, sports and cultural arts in accordance with students\u0027 talents, interests and potentials. \n4.Develop a culture of discipline and work ethic. \n5. Establish harmonious cooperation between school residents and the environment. \nAre there any more questions?",
+            "$visi and $misi : Instilling faith / creed through the practice of Islamic religious teachings, Carrying out learning \u0026 guidance effectively so that students\u0027 potential can develop optimally, Developing knowledge in the fields of technology, language, sports \u0026 cultural arts in accordance with students\u0027 talents, interests \u0026 potential, Developing a culture of discipline and work ethic, Establishing harmonious cooperation between school residents and the environment. For the complete vision and mission, you can check it on this Website Profile Menu! Are there any more questions?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

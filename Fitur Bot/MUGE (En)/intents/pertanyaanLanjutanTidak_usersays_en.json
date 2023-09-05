@@ -1,0 +1,122 @@
+[
+  {
+    "id": "94bdfce9-f41a-41d0-a91b-98494b5536be",
+    "data": [
+      {
+        "text": "i think it\u0027s enough",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30100edc-8bf3-4d1c-a9f7-bdee5d64fd1f",
+    "data": [
+      {
+        "text": "none",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4610f0d-8a5f-4ef1-adb5-b2ef42998fa3",
+    "data": [
+      {
+        "text": "nope",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26b8bee0-9dba-40a4-90e0-bfe1f725f6ef",
+    "data": [
+      {
+        "text": "thank you",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49e42457-2fc5-49bc-ba3e-b595ed1513fe",
+    "data": [
+      {
+        "text": "thanks",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73756358-5222-45a1-aa6a-34295aefc1b6",
+    "data": [
+      {
+        "text": "thx",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "707e19bb-fd38-4322-9c09-c5d1754eee04",
+    "data": [
+      {
+        "text": "enough",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "093ee0e0-2d6a-419f-9cb2-63f9a0aa792b",
+    "data": [
+      {
+        "text": "no",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

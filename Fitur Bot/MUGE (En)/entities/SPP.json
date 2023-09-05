@@ -1,0 +1,9 @@
+{
+  "id": "f6839b87-ffe8-4708-af72-9f632cddaef1",
+  "name": "SPP",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

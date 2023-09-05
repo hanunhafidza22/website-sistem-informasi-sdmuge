@@ -1,0 +1,9 @@
+{
+  "id": "745fe402-c309-42e8-bed4-0ba0790910dd",
+  "name": "mikrofon",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

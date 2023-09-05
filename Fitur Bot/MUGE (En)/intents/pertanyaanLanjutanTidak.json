@@ -1,0 +1,66 @@
+{
+  "id": "19d1469c-f0b2-4161-9f16-c1d2fc336037",
+  "name": "pertanyaanLanjutanTidak",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "tidak",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a70b03bf-1d1f-459f-8318-62866c0c2e61",
+          "name": "lanjuttanyatidak",
+          "required": false,
+          "dataType": "@lanjutTanyaTidak",
+          "value": "$lanjuttanyatidak",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Well, thank you for asking using the MUGE-Bot service. See you again! Assalamu\u0027alaikum."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Baik, Terima kasih ya sudah bertanya menggunakan layanan MUGE-Bot. Sampai Bertemu Lagi! Assalamu\u0027alaikum."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ec2864a3-bbba-4726-9ff3-5292f1b258a7",
+  "name": "guru",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

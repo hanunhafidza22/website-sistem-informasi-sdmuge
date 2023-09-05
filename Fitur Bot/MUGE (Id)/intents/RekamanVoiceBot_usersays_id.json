@@ -1,0 +1,54 @@
+[
+  {
+    "id": "6162973b-aa86-420b-adb4-04d3bb8e8011",
+    "data": [
+      {
+        "text": "Rekaman Voice Bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e0ab9bfa-b79e-494e-b94c-49098b511b8d",
+    "data": [
+      {
+        "text": "Download Rekaman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1294e07b-41d5-47e3-a40c-a156d8ad4c34",
+    "data": [
+      {
+        "text": "Download",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "335b48c8-4877-46d4-9ec7-2f18770a3381",
+    "data": [
+      {
+        "text": "Download Rekaman Voice Bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

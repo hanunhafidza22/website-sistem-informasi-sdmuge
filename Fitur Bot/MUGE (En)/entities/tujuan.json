@@ -1,0 +1,9 @@
+{
+  "id": "ad1d6308-275b-478f-bbb9-2727ebd63903",
+  "name": "tujuan",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

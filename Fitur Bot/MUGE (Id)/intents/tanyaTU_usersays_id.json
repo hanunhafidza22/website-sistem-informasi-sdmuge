@@ -1,0 +1,228 @@
+[
+  {
+    "id": "bd23af81-d034-46d9-8ed0-ee92bd6b6bdd",
+    "data": [
+      {
+        "text": "bayar ",
+        "userDefined": false
+      },
+      {
+        "text": "SPP",
+        "meta": "@SPP",
+        "alias": "SPP1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a880a2af-f8c3-4eda-8a4a-6f708c01535b",
+    "data": [
+      {
+        "text": "Tata ",
+        "userDefined": false
+      },
+      {
+        "text": "Usaha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2ffef906-247e-4ac5-b47c-0335d74d29d5",
+    "data": [
+      {
+        "text": "TU",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8ff79881-4401-4011-bd06-6000597b47eb",
+    "data": [
+      {
+        "text": "SPP",
+        "meta": "@SPP",
+        "alias": "SPP1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "687c41d5-81fb-4d9b-b920-3f33370694b8",
+    "data": [
+      {
+        "text": "cara membayar ",
+        "userDefined": false
+      },
+      {
+        "text": "SPP",
+        "meta": "@SPP",
+        "alias": "SPP1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5f70e2d5-fb67-4926-8c29-3c6109c4fa53",
+    "data": [
+      {
+        "text": "cara membayar ",
+        "userDefined": false
+      },
+      {
+        "text": "SPP",
+        "meta": "@SPP",
+        "alias": "SPP1",
+        "userDefined": true
+      },
+      {
+        "text": " ditransfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2a4c3029-686c-4e5d-9941-eac3957b8751",
+    "data": [
+      {
+        "text": "membayar ",
+        "userDefined": false
+      },
+      {
+        "text": "SPP",
+        "meta": "@SPP",
+        "alias": "SPP1",
+        "userDefined": true
+      },
+      {
+        "text": " di TU",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3368f3ae-91e8-40c5-8179-a98f78368051",
+    "data": [
+      {
+        "text": "cara bayar ",
+        "userDefined": false
+      },
+      {
+        "text": "SPP",
+        "meta": "@SPP",
+        "alias": "SPP1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "22420845-4bc4-4e40-a3e4-9b62e4eb5bdf",
+    "data": [
+      {
+        "text": "Apakah membayar ",
+        "userDefined": false
+      },
+      {
+        "text": "SPP",
+        "meta": "@SPP",
+        "alias": "SPP1",
+        "userDefined": true
+      },
+      {
+        "text": " bisa ditransfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9104bc6e-e94a-47ee-85db-16a094c12f0d",
+    "data": [
+      {
+        "text": "info TU",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "082ca502-132a-423a-a6eb-d6ef831a37df",
+    "data": [
+      {
+        "text": "apakah Tata ",
+        "userDefined": false
+      },
+      {
+        "text": "usaha",
+        "userDefined": false
+      },
+      {
+        "text": " buka",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "86b378f2-1411-473b-94bd-e2ebdb1320cd",
+    "data": [
+      {
+        "text": "Apakah ",
+        "userDefined": false
+      },
+      {
+        "text": "hari ini",
+        "userDefined": false
+      },
+      {
+        "text": " TU buka?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

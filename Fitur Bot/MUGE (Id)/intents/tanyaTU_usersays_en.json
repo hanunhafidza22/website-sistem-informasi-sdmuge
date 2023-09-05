@@ -1,0 +1,113 @@
+[
+  {
+    "id": "55e0924b-aef1-47a1-9557-bbb70d14bd8c",
+    "data": [
+      {
+        "text": "Can ",
+        "userDefined": false
+      },
+      {
+        "text": "school tuition",
+        "meta": "@SPP",
+        "alias": "SPP1",
+        "userDefined": true
+      },
+      {
+        "text": " be transferred?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31e2ee02-1bac-4c95-92dd-65f069b1ff8c",
+    "data": [
+      {
+        "text": "SPP",
+        "meta": "@SPP",
+        "alias": "SPP1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e059cb6e-705e-46d3-8d0d-ffe92658d70b",
+    "data": [
+      {
+        "text": "How to ",
+        "userDefined": false
+      },
+      {
+        "text": "Pay School Tuition",
+        "meta": "@SPP",
+        "alias": "SPP1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8889d17-1fc7-4a5f-8e64-27341d5f6f92",
+    "data": [
+      {
+        "text": "Education Development Contribution (SPP)",
+        "meta": "@SPP",
+        "alias": "SPP1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "521d9048-64c4-4c9b-976e-bc9b488a4988",
+    "data": [
+      {
+        "text": "is Administration open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a0b18d3-738f-4bb9-b0c5-12b3d998a7a4",
+    "data": [
+      {
+        "text": "Administration information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a04de41f-e0cd-4735-a4d7-3a5d82e92fa4",
+    "data": [
+      {
+        "text": "Administration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

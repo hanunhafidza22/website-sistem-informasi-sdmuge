@@ -1,0 +1,9 @@
+{
+  "id": "f2531561-e584-4665-b483-d9f73a069fd1",
+  "name": "elearning",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

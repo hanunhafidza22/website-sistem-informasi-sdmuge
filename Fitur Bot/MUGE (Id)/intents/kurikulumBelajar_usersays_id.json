@@ -1,0 +1,574 @@
+[
+  {
+    "id": "06e8a6b7-61c6-498e-8d4d-3e04c7290c5c",
+    "data": [
+      {
+        "text": "berapa biaya ",
+        "userDefined": false
+      },
+      {
+        "text": "field trip",
+        "meta": "@tanyafieldtrip",
+        "alias": "tanyafieldtrip",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5f7b611c-43da-4899-bae0-68ce4de1e4ca",
+    "data": [
+      {
+        "text": "apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "field trip",
+        "meta": "@tanyafieldtrip",
+        "alias": "tanyafieldtrip",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "52d9ad34-dd95-4549-8ae3-d6340c2e60aa",
+    "data": [
+      {
+        "text": "kemana field trip",
+        "meta": "@tanyafieldtrip",
+        "alias": "tanyafieldtrip",
+        "userDefined": true
+      },
+      {
+        "text": " SD Muhammadiyah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a3a33b2b-6598-42a7-ba1c-65fb5092da1c",
+    "data": [
+      {
+        "text": "keputrian",
+        "meta": "@keputrian",
+        "alias": "keputrian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3650a412-bbb7-4ff2-829a-857ecf1d4283",
+    "data": [
+      {
+        "text": "kegiatan apa pembinaan ",
+        "userDefined": false
+      },
+      {
+        "text": "keputrian",
+        "meta": "@keputrian",
+        "alias": "keputrian",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c1a53505-aaa7-4170-8240-b910def075a4",
+    "data": [
+      {
+        "text": "pembinaan ",
+        "userDefined": false
+      },
+      {
+        "text": "keputrian",
+        "meta": "@keputrian",
+        "alias": "keputrian",
+        "userDefined": true
+      },
+      {
+        "text": " ngapain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "21ea1aec-779e-4336-961a-30d1c64d8668",
+    "data": [
+      {
+        "text": "apa itu pembinaan ",
+        "userDefined": false
+      },
+      {
+        "text": "keputrian",
+        "meta": "@keputrian",
+        "alias": "keputrian",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5bb73da3-92fd-4bba-af2c-4af7411c3be2",
+    "data": [
+      {
+        "text": "apa boleh tidak ",
+        "userDefined": false
+      },
+      {
+        "text": "shaum sunnah",
+        "meta": "@shaum",
+        "alias": "shaum",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ff7141cf-0b74-4909-a4ba-06bafa7ef31a",
+    "data": [
+      {
+        "text": "kalo gak ",
+        "userDefined": false
+      },
+      {
+        "text": "shaum sunnah",
+        "meta": "@shaum",
+        "alias": "shaum",
+        "userDefined": true
+      },
+      {
+        "text": " bagaimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1413ac1a-26e4-4c1d-a29d-e2ecc1c4be1d",
+    "data": [
+      {
+        "text": "apakah ",
+        "userDefined": false
+      },
+      {
+        "text": "shaum sunnah",
+        "meta": "@shaum",
+        "alias": "shaum",
+        "userDefined": true
+      },
+      {
+        "text": " wajib dilaksanakan oleh seluruh siswa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "06036405-4c71-4057-a43e-ab51d0d776de",
+    "data": [
+      {
+        "text": "apa ",
+        "userDefined": false
+      },
+      {
+        "text": "shaum sunnah",
+        "meta": "@shaum",
+        "alias": "shaum",
+        "userDefined": true
+      },
+      {
+        "text": " wajib?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8762a5ba-905f-453f-ba4b-2f29bf3cbbc1",
+    "data": [
+      {
+        "text": "apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "shaum sunnah",
+        "meta": "@shaum",
+        "alias": "shaum",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "50883f07-450f-4a55-9194-268f541a1627",
+    "data": [
+      {
+        "text": "apa itu program ",
+        "userDefined": false
+      },
+      {
+        "text": "shaum sunnah",
+        "meta": "@shaum",
+        "alias": "shaum",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "cd4fc960-e451-4aa9-b39f-a08ea515df85",
+    "data": [
+      {
+        "text": "ekskulnya",
+        "meta": "@tanyaekskul",
+        "alias": "tanyaekskul",
+        "userDefined": false
+      },
+      {
+        "text": " apa saja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c457ed3c-aa5c-4cf1-8865-896358888a3c",
+    "data": [
+      {
+        "text": "ekskul",
+        "meta": "@tanyaekskul",
+        "alias": "tanyaekskul",
+        "userDefined": false
+      },
+      {
+        "text": " di sd muhammadiyah ada apa saja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fda5d849-34f7-4a48-a785-6e4864dc3368",
+    "data": [
+      {
+        "text": "ekstrakurikuler",
+        "meta": "@tanyaekskul",
+        "alias": "tanyaekskul",
+        "userDefined": true
+      },
+      {
+        "text": " sd muhammadiyah apa saja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f8bdfbfb-3252-4437-b840-fa09b7a09b11",
+    "data": [
+      {
+        "text": "ekskul",
+        "meta": "@tanyaekskul",
+        "alias": "tanyaekskul",
+        "userDefined": true
+      },
+      {
+        "text": " sd muhammadiyah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2f4d21b3-ed33-4714-891d-9ba9ca47bb13",
+    "data": [
+      {
+        "text": "ekstrakurikuler",
+        "meta": "@tanyaekskul",
+        "alias": "tanyaekskul",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8ce28d9d-092b-4b74-9fbd-734ad1e819e5",
+    "data": [
+      {
+        "text": "ekskul",
+        "meta": "@tanyaekskul",
+        "alias": "tanyaekskul",
+        "userDefined": true
+      },
+      {
+        "text": " di SD Muhammadiyah Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f8b75069-374d-4575-888d-60a1214a0a8c",
+    "data": [
+      {
+        "text": "kurikulum",
+        "meta": "@kurikulum",
+        "alias": "kurikulum",
+        "userDefined": true
+      },
+      {
+        "text": " SD Muhammadiyah Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fed24864-16f9-42c2-b87b-c8fd9e7d2c70",
+    "data": [
+      {
+        "text": "Di SD Muhammadiyah Bojonggede ",
+        "userDefined": false
+      },
+      {
+        "text": "belajar",
+        "meta": "@kurikulum",
+        "alias": "kurikulum",
+        "userDefined": true
+      },
+      {
+        "text": " apa saja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fa031b4b-a3da-499c-b002-ca89082f1d93",
+    "data": [
+      {
+        "text": "kurikulum",
+        "meta": "@kurikulum",
+        "alias": "kurikulum",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "484d40c0-e856-4db8-9b56-fb65d79074a7",
+    "data": [
+      {
+        "text": "pembelajaran",
+        "meta": "@kurikulum",
+        "alias": "kurikulum",
+        "userDefined": true
+      },
+      {
+        "text": " di SD Muhammadiyah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8bf60d3b-f3fc-4b24-8d6a-6f3e19261590",
+    "data": [
+      {
+        "text": "kurikulum",
+        "meta": "@kurikulum",
+        "alias": "kurikulum",
+        "userDefined": true
+      },
+      {
+        "text": " SD Muhammadiyah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f1d95bdd-d758-4f20-9062-f727c296eceb",
+    "data": [
+      {
+        "text": "Apa ",
+        "userDefined": false
+      },
+      {
+        "text": "kurikulum",
+        "meta": "@kurikulum",
+        "alias": "kurikulum",
+        "userDefined": true
+      },
+      {
+        "text": " yang digunakan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8e60b2be-048f-4d39-97c0-97e356bdf8e1",
+    "data": [
+      {
+        "text": "kurikulum",
+        "meta": "@kurikulum",
+        "alias": "kurikulum",
+        "userDefined": true
+      },
+      {
+        "text": " yang digunakan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d21eb63b-49ba-4655-95d5-6c86101057d7",
+    "data": [
+      {
+        "text": "belajar",
+        "meta": "@kurikulum",
+        "alias": "kurikulum",
+        "userDefined": true
+      },
+      {
+        "text": " apa di SD Muhammadiyah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a672d88e-3fb3-4b92-9e46-479b8597c7cb",
+    "data": [
+      {
+        "text": "Di SD Muhammadiyah ",
+        "userDefined": false
+      },
+      {
+        "text": "belajar",
+        "meta": "@kurikulum",
+        "alias": "kurikulum",
+        "userDefined": true
+      },
+      {
+        "text": " apa saja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

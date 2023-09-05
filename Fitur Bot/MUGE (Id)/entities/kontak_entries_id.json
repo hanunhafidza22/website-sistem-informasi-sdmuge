@@ -1,0 +1,43 @@
+[
+  {
+    "value": "kontak",
+    "synonyms": [
+      "kontak",
+      "WA"
+    ]
+  },
+  {
+    "value": "nomor",
+    "synonyms": [
+      "nomor"
+    ]
+  },
+  {
+    "value": "whatsapp",
+    "synonyms": [
+      "whatsapp",
+      "wa"
+    ]
+  },
+  {
+    "value": "instagram",
+    "synonyms": [
+      "instagram",
+      "IG"
+    ]
+  },
+  {
+    "value": "facebook",
+    "synonyms": [
+      "facebook",
+      "FB"
+    ]
+  },
+  {
+    "value": "YouTube",
+    "synonyms": [
+      "YouTube",
+      "YT"
+    ]
+  }
+]

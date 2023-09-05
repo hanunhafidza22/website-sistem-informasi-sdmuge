@@ -1,0 +1,65 @@
+{
+  "id": "33fbbfba-7a55-4203-a891-31b1ec39597f",
+  "name": "pertanyaanLanjutanIya",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "iya",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "38fc6cf5-1040-4a03-bac9-3a593eb4f4a8",
+          "name": "lanjuttanyaiya",
+          "required": false,
+          "dataType": "@lanjutTanyaIya",
+          "value": "$lanjuttanyaiya",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Well please ask. You can use the microphone to ask questions using your voice or type questions with text. You can also click the menu in the lower left corner!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Baik silakan bertanya. Kamu dapat memakai mikrofon untuk bertanya menggunakan suara atau ketik pertanyaan dengan teks. Kamu juga bisa klik menu pada pojok kiri bawah ya!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

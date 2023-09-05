@@ -1,0 +1,351 @@
+[
+  {
+    "id": "289d86b7-eae9-4ce2-b680-f186f657d17b",
+    "data": [
+      {
+        "text": "mksih",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "34f815d4-e67b-4d62-9066-648fa9910697",
+    "data": [
+      {
+        "text": "mksi",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "edd2291e-80da-46ea-a4c9-423f29466930",
+    "data": [
+      {
+        "text": "trims",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "37bc3898-572f-4a4d-ab77-7f4155e8cbb3",
+    "data": [
+      {
+        "text": "mksh",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7a1c882b-0939-42e4-8933-1e290128f4a3",
+    "data": [
+      {
+        "text": "thankyou",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8a071a8b-5d75-4e9b-b5a9-8946f0025be3",
+    "data": [
+      {
+        "text": "thx",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b3fe0ffb-fdde-4e79-ad13-361498b60f0a",
+    "data": [
+      {
+        "text": "thank you",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "131a048e-8f18-4475-b71c-43a368d7a739",
+    "data": [
+      {
+        "text": "terimakasih",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f71b51e9-555c-4304-b22a-f0312420bca5",
+    "data": [
+      {
+        "text": "cukup",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "terima kasih",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": true
+      },
+      {
+        "text": " ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "defd0c5f-10de-454e-9a77-cd6da17f4b92",
+    "data": [
+      {
+        "text": "thanks",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "14c475a9-ab53-4c39-a2ec-49ab2e405a48",
+    "data": [
+      {
+        "text": "makasih",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fed84eb8-7cc0-4183-8223-880277c662b8",
+    "data": [
+      {
+        "text": "terima kasih",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7996a5f5-04ef-407e-b186-ad295e830a15",
+    "data": [
+      {
+        "text": "tidak",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": false
+      },
+      {
+        "text": " ada lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "20dcb161-14b4-4053-ac9c-213fc4e0a6b0",
+    "data": [
+      {
+        "text": "cukup",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f43776bb-2ea0-4787-9f14-7dd03e0137fa",
+    "data": [
+      {
+        "text": "sudah cukup",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8204f13b-6b6b-4608-95f9-208132721465",
+    "data": [
+      {
+        "text": "enggak",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": false
+      },
+      {
+        "text": " ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "eeabeb08-a74f-462f-a9c3-81b792194e3d",
+    "data": [
+      {
+        "text": "engga",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2193f7ba-8f06-4b0e-899e-629cffbef5d7",
+    "data": [
+      {
+        "text": "ga",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9fcaab27-c533-4b67-9c0f-a16ada852f46",
+    "data": [
+      {
+        "text": "gak",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "71969567-dc1e-4d2d-b478-e894e8a609c4",
+    "data": [
+      {
+        "text": "tidak",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": false
+      },
+      {
+        "text": " ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3e2a3a68-4ecc-47d8-bcb0-060ee62876a6",
+    "data": [
+      {
+        "text": "tidak",
+        "meta": "@lanjutTanyaTidak",
+        "alias": "lanjuttanyatidak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

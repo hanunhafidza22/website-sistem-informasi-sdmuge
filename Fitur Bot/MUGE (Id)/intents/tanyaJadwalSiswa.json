@@ -1,0 +1,50 @@
+{
+  "id": "13065d23-548e-400a-8155-6f78787317ab",
+  "name": "tanyaJadwalSiswa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "jadwalSiswa",
+          "lifespan": 4
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Jadwal Masuk Siswa SD Muhammadiyah Bojonggede Pukul 07.00.\n\nJadwal istirahat siswa SD Muhammadiyah Bojonggede Pukul 09.55 sampai 10.15.\n\nJadwal Pulang Siswa SD Muhammadiyah Bojonggede Pukul 11.30 untuk hari Senin dan Kamis serta Pukul 13.40 untuk hari Selasa, Rabu, dan Jum\u0027at. Jadwal pulang menyesuaikan ekskul yang diikuti oleh masing-masing Siswa/i ya!\n\nApa ada pertanyaan lagi ?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The entrance schedule for students of SD Muhammadiyah Bojonggede is at 07.00.\n\nThe break schedule for students of SD Muhammadiyah Bojonggede is from 09.55 to 10.15.\n\nThe return schedule for SD Muhammadiyah Bojonggede students is at 11.30 for Monday and Thursday and 13.40 for Tuesday, Wednesday, and Friday. The return schedule adjusts to the extracurricular activities followed by each student!\n\nAre there any more questions?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

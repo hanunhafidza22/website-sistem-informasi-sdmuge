@@ -1,0 +1,107 @@
+[
+  {
+    "id": "f4dcfe81-5c47-41d7-a76e-81a1ffd12dae",
+    "data": [
+      {
+        "text": "gabisa pakai suara",
+        "meta": "@mikrofon",
+        "alias": "mikrofon",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c8de7cc7-1f39-4fc7-bd19-01860134a63f",
+    "data": [
+      {
+        "text": "saya tidak bisa pakai suara",
+        "meta": "@mikrofon",
+        "alias": "mikrofon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3483e52e-7c7b-4503-b57c-602d3b5b572c",
+    "data": [
+      {
+        "text": "gaada mic",
+        "meta": "@mikrofon",
+        "alias": "mikrofon",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "40149bfe-93ea-4bb1-a014-b902303893b5",
+    "data": [
+      {
+        "text": "saya gak ada mikrofon",
+        "meta": "@mikrofon",
+        "alias": "mikrofon",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "55f3a63f-fe87-4152-93be-79eb041c7f91",
+    "data": [
+      {
+        "text": "saya tidak ada microphone",
+        "meta": "@mikrofon",
+        "alias": "mikrofon",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "99d14e03-cfd2-4bce-8b92-848cec39679e",
+    "data": [
+      {
+        "text": "mikrofon saya tidak ada",
+        "meta": "@mikrofon",
+        "alias": "mikrofon",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9d519221-a3ed-42e3-9f4f-53db62c2e4ff",
+    "data": [
+      {
+        "text": "microphonenya tidak ada kak",
+        "meta": "@mikrofon",
+        "alias": "mikrofon",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "id": "21772c86-441d-4ca5-8993-172aa8fa60a8",
+    "data": [
+      {
+        "text": "iya ada",
+        "meta": "@lanjutTanyaIya",
+        "alias": "lanjuttanyaiya",
+        "userDefined": false
+      },
+      {
+        "text": ", mau tanya lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5a9c353d-580e-4027-b1cf-bca01bf3455c",
+    "data": [
+      {
+        "text": "ada",
+        "meta": "@lanjutTanyaIya",
+        "alias": "lanjuttanyaiya",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e9a0d4a9-a3e9-4686-97e2-dc01ee56de0c",
+    "data": [
+      {
+        "text": "saya ",
+        "userDefined": false
+      },
+      {
+        "text": "mau",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tanya",
+        "meta": "@lanjutTanyaIya",
+        "alias": "lanjuttanyaiya",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "729cc0ee-6a66-42e9-bf8c-943a85f0cf24",
+    "data": [
+      {
+        "text": "saya mau ",
+        "userDefined": false
+      },
+      {
+        "text": "bertanya",
+        "meta": "@lanjutTanyaIya",
+        "alias": "lanjuttanyaiya",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "197072a7-2aac-4f20-a8ff-cee33239a8e5",
+    "data": [
+      {
+        "text": "mau tanya lagi",
+        "meta": "@lanjutTanyaIya",
+        "alias": "lanjuttanyaiya",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1b1848be-9c49-457d-bdcd-018eb0e72f1e",
+    "data": [
+      {
+        "text": "iya",
+        "meta": "@lanjutTanyaIya",
+        "alias": "lanjuttanyaiya",
+        "userDefined": true
+      },
+      {
+        "text": " mau tanya lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "6af2174e-9c97-419d-a603-5375b538ef97",
+    "data": [
+      {
+        "text": "y",
+        "meta": "@lanjutTanyaIya",
+        "alias": "lanjuttanyaiya",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a0026370-404f-44eb-8fae-8cc436717e38",
+    "data": [
+      {
+        "text": "yes",
+        "meta": "@lanjutTanyaIya",
+        "alias": "lanjuttanyaiya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ef161d1c-744d-46c3-9acd-da2eefb36ef3",
+    "data": [
+      {
+        "text": "ya",
+        "meta": "@lanjutTanyaIya",
+        "alias": "lanjuttanyaiya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b656b56e-00dc-41b9-ba29-9db9a50d4a67",
+    "data": [
+      {
+        "text": "iya",
+        "meta": "@lanjutTanyaIya",
+        "alias": "lanjuttanyaiya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

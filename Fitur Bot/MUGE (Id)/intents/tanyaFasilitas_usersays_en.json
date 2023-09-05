@@ -1,0 +1,49 @@
+[
+  {
+    "id": "97fc1085-1a60-4494-80de-921c67fecac5",
+    "data": [
+      {
+        "text": "Facilities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70c9551a-898a-4c7a-a594-0b0bf696da57",
+    "data": [
+      {
+        "text": "Facilities of SD Muhammadiyah Bojonggede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f70c191-cfb8-49af-9143-b85fd80a7bc9",
+    "data": [
+      {
+        "text": "What are the facilities of SD Muhammadiyah ",
+        "userDefined": false
+      },
+      {
+        "text": "Bojonggede",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
