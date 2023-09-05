@@ -26,12 +26,3 @@ Cara Penggunaan Bot Dialogflow.
 7. Test pada bot.
 
 ================================================================================
-
-
-
-
-
-
-
-
-6. Logout (menu pojok kanan atas)
